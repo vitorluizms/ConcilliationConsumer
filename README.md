@@ -12,7 +12,7 @@ You just need to have dotnet installed.
 
 ## Quick Start
 
-- Clone the repository: `https://github.com/vitorluizms/ConsumerPixHub`;
+- Clone the repository: `https://github.com/vitorluizms/ConcilliationConsumer.git`;
 - Open the project and run `dotnet restore` to restore the dependencies;
 - Run `dotnet run`;
 
